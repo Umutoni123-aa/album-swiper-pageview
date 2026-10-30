@@ -19,25 +19,24 @@ To illustrate the impact of scrollDirection, viewportFraction and pageSnapping a
    git clone https://github.com/Umutoni123-aa/album-swiper-pageview.git
    ```
 
-3. Go to the cloned project directory and install dependencies:
+3. Go to the project folder and install the packages:
 
    ```bash
-  cd album-swiper-pageview
+   cd album-swiper-pageview
    flutter pub get
    ```
 
-4. Run the application:
+4. Run the app:
 
    ```bash
    flutter run
    ```
 
-   Alternatively, if you want to run it in Chrome, use:
+   To run it in Chrome instead:
 
    ```bash
    flutter run -d chrome
    ```
-
 ## The 3 attributes
 
 ### 1. scrollDirection
@@ -60,7 +59,7 @@ To illustrate the impact of scrollDirection, viewportFraction and pageSnapping a
 ## Screenshot
 
 ![Album Swiper Screenshot](screenshot.png)
-![alt text](image.png)
+
 ## Credits
 
 I used Flutter documentation as a reference while building the demo.
